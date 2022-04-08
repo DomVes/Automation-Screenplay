@@ -1,5 +1,4 @@
-# RetoFinalScreenplay
-
+# Automatizacion con Screenplay y generacion de informes
 En esta ocasion las automatizaciones son realizadas en Cucumber/Screenplay, teniendo en cuenta 3 parametros diferentes para la ejecucion, los cuales serán 3 archivos "Feature" diferentes.
 
 Se detalla a continuacions las actividades a realizar:
